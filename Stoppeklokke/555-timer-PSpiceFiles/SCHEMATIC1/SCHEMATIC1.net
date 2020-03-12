@@ -1,0 +1,8 @@
+* source 555-TIMER
+X_U1         GND N00184 N000742 VCC N00450 N00184 N00256 VCC 555B
+R_R1         N00256 VCC  8.2k TC=0,0 
+R_R2         N00184 N00256  68k TC=0,0 
+C_C1         GND N00184  1u  TC=0,0 
+V_V1         VCC GND DC 5V  
+C_C2         GND N00450  1n  TC=0,0 
+R_R3         N000742 GND  1k TC=0,0 

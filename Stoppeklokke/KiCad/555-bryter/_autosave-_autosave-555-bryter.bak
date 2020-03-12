@@ -1,0 +1,27 @@
+EESchema Schematic File Version 4
+EELAYER 29 0
+EELAYER END
+$Descr User 6299 4724
+encoding utf-8
+Sheet 1 1
+Title "555-klokke"
+Date "2019-05-04"
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Connector_Generic:Conn_02x08_Counter_Clockwise J?
+U 1 1 5CDB5291
+P 1900 1650
+F 0 "J?" H 1950 2167 50  0000 C CNN
+F 1 "Conn_02x08_Counter_Clockwise" H 1950 2076 50  0000 C CNN
+F 2 "" H 1900 1650 50  0001 C CNN
+F 3 "~" H 1900 1650 50  0001 C CNN
+	1    1900 1650
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
